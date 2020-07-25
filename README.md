@@ -483,7 +483,18 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     Best Case (Omega) / Worst Case (Big O) / Best & Worst Case (Theta)
 
 - [ ] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
-- [ ] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
+- [x] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
+
+    f(n) is O(g(n)) if C and n_0
+        f(n) <= C g(n) for all n > n_0
+
+    f(n) is Omega(g(n)) if C and n_0
+        f(n) > C g(n) for all n > n_0
+
+    f(n) is Theta(g(n)) if
+        f(n) is O(g(n)) and
+        f(n) is Ometa(g(n))
+
 - [ ] Skiena:
     - [video](https://www.youtube.com/watch?v=gSyDMtdPNpU&index=2&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
     - [slides](http://www3.cs.stonybrook.edu/~algorith/video-lectures/2007/lecture2.pdf)
