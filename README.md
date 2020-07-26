@@ -502,7 +502,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 - [ ] [Orders of Growth (video)](https://www.coursera.org/lecture/algorithmic-thinking-1/orders-of-growth-6PKkX)
 - [ ] [Asymptotics (video)](https://www.coursera.org/lecture/algorithmic-thinking-1/asymptotics-bXAtM)
 - [x] [UC Berkeley Big O (video)](https://archive.org/details/ucberkeley_webcast_VIS4YDpuP98)
-    Big-Oh show the upper bound, e.g. it's indicate that the function is fast
+    Big-Oh shows the upper bound, e.g. it's indicate that the function is fast
     enough, but it's not say anything about how slow it is.
 
 - [ ] [UC Berkeley Big Omega (video)](https://archive.org/details/ucberkeley_webcast_ca3e7UVmeUc)
