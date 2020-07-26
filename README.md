@@ -505,7 +505,15 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     Big-Oh shows the upper bound, e.g. it's indicate that the function is fast
     enough, but it's not say anything about how slow it is.
 
-- [ ] [UC Berkeley Big Omega (video)](https://archive.org/details/ucberkeley_webcast_ca3e7UVmeUc)
+- [x] [UC Berkeley Big Omega (video)](https://archive.org/details/ucberkeley_webcast_ca3e7UVmeUc)
+    Omega is reverse of big-Oh and it gives a lower bound of a function.
+
+    If f(n) = g(n), e.g. upper and lower bounds are the same, then this
+    function called a Theta.
+
+    Theta is symmetric, e.g.
+        if f(n) is Theta(g(n)) then g(n) is Theta(f(n))
+
 - [ ] [Amortized Analysis (video)](https://www.youtube.com/watch?v=B3SpQZaAZP4&index=10&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [ ] [Illustrating "Big O" (video)](https://www.coursera.org/lecture/algorithmic-thinking-1/illustrating-big-o-YVqzv)
 - [ ] TopCoder (includes recurrence relations and master theorem):
